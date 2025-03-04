@@ -1,5 +1,7 @@
 # LunAPI: A Python interface for Luna
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remnrem/luna-api-notebooks/HEAD?urlpath=%2Fdoc%2Ftree%2F00_overview.ipynb)
+
 This repository contains tutorial and reference notebooks for LunAPI
 (pronounced _luna-py_), a Python-based interface for the
 [Luna](http://zzz.bwh.harvard.edu/luna/) C/C++ toolset for the
